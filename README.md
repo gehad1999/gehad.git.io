@@ -1,7 +1,7 @@
 <!--Headline-->
 <!--Image-->
 <!--UL-->
-###Resume
+Resume
 ![Drag Racing](gehad.png)
 <!-- URLs-->
       
@@ -11,20 +11,20 @@
 * Year of Birth: 1999 
 * e-mail: gehad.mohamed887@gmail.com 
 
-###Interests
+Interests
 * fashion & colours.
 * fitness sports .
 * knowing about nutrition.
    
-###Work Experience
+Work Experience
 
 * student at 2nd year of systems and biomedical engineering department.
 
-###Education
+Education
 * Cairo University, Faculty of Engineerin, Systems and Biomedical Engineering.
        
 
-###Skills
+Skills
 * tring to learn from others.
     
 
